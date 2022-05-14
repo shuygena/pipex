@@ -23,9 +23,9 @@ Example:
 ```
 For using redirection with << adn >> run:
 ```
-./pipex here_doc key command1 command2 ... commandN file2
+./pipex here_doc command1 KEY command2 ... commandN file2
 ```
 Example:
 ```
-./pipex lol ls -la "grep .c" cat outputfile.txt
+./pipex "ls -la" lol "grep .c" "cat -e" outputfile.txt
 ```
