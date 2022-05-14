@@ -27,5 +27,5 @@ For using redirection with << adn >> run:
 ```
 Example:
 ```
-./pipex "ls -la" lol "grep .c" "cat -e" outputfile.txt
+./pipex here_doc "ls -la" lol "grep .c" "cat -e" outputfile.txt
 ```
