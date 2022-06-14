@@ -1,3 +1,6 @@
+# Requirements:  
+gcc compiler 
+
 # Download & Compile
 Clone repository:
 ```
