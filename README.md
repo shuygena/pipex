@@ -7,7 +7,7 @@ Go to directory:
 ```
 cd pipex
 ```
-For compile programm run:  
+For compile program run:  
 ```
 make bonus
 ```
